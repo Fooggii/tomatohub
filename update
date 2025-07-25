@@ -1,0 +1,7 @@
+spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fooggii/tomatohub/refs/heads/main/MM2.lua"))()
+end)
+
+spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2"))()
+end)
